@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en"> 
+ <body>
+  <h1> Coding Blocks Jr. Web Development </h1>
+    <a href="#sec2" target="_blank"> link to 'section 2 of assignment4.html </a>
+       <br />
+       <br />
+    <a href="abc.html" target="_blank"> link to abc.html </a>
+       <br />
+       <br />
+    <a href="abc.html#ef" target="_blank"> link to place three of abc.html </a>
+       <br />
+       <br />    
+    <a href="../folder2/xyz.html" target="_blank"> link to xyz.html file of folder2 </a>
+       <br />
+       <br />      
+    <a href="../folder2/xyz.html#tu" target="_blank"> link to 'Food 3' of xyz.html of folder 2 </a>
+       <br />
+       <br />
+       
+    <p> Below we have different sections. In each sections links have been used. </p>
+       <br />
+
+  <h3 id="sec1"> Section 1 </h3>
+    <p> This section consist of the links which will direct us to different websites 
+       <br />
+       <br />
+     <a href="https://www.youtube.com" target="_blank"> YouTube </a>
+       <br />
+     <a href="https://codingblocks.com/" target="_blank"> Coding Blocks </a>
+       <br />
+     <a href="https://github.com/" target="_blank"> github </a>
+       <br />
+     <a href="https://www.google.com" target="_blank"> Google </a>
+       <br />
+     <a href="https://parenting.firstcry.com/articles/10-educational-cartoons-your-child-should-be-watching/" target="_blank"> Educational Cartoons </a>
+       <br />
+    </p>
+
+   <br />
+   <br />
+   <br />
+
+  <h3 id="sec2"> Section 2 </h3>
+    <p> This section consist of the links through which we can directly call a particular organization
+        <br />
+        <br />
+     <a href="tel:104" target="_blank"> Medical Helpline Number </a> 
+        <br />
+     <a href="tel:1800 889 9999" target="_blank"> Jio Customer care Helpline number </a>
+        <br />
+     <a href="tel:1800 274 4504" target="_blank"> CodingBlocks Helpline Number </a>
+        <br />
+     <a href="tel:1075" target="_blank"> COVID-19 Helpline Number </a>
+        <br />
+    </p>
+
+   <br />
+   <br />
+   <br />
+
+  <h3 id="sec3"> Section 3 </h3>
+    <p> This section consist of the links through which we can directly mail a particular organization 
+        <br />
+        <br />
+     <a href="mailto:support@codingblocks.com" target="_blank"> codingblocks Helpline E-mail </a>
+        <br />
+     <a href="mailto:epg.cms@sbi.co.in" target="_blank"> Sbi Helpline E-mail ID </a>
+        <br />
+     <a href="mailto:support@vidyamandir.com" target="_blank"> Vidyamandir Helpline Classes E-mail ID </a>
+        <br />
+     <a href="mailto:ncov2019@gov.in" target="_blank"> COVID-19 Helpline E-mail ID </a>
+        <br />
+    </p>
+
+   <br />
+   <br />
+   <br />
+
+  <h3 id="sec4"> Section 4 </h3>
+    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit nesciunt quas fuga iusto <br /> ipsum, nisi ea ab dolores quasi? Similique
+        voluptatibus reiciendis non! Sed doloremque <br /> in harum accusamus. Ab, vero? 
+    </p>
+
+   <br />
+   <br />
+   <br />
+
+  <h3 id="sec5"> Section 5 </h3>
+    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit nesciunt quas fuga iusto <br /> ipsum, nisi ea ab dolores quasi? Similique
+        voluptatibus reiciendis non! Sed doloremque <br />in harum accusamus. Ab, vero? 
+    </p>
+
+ </body>
+</html>
