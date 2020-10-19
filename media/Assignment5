@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 5</title>
+</head>
+<body>
+    <h3><u> Batman </u></h3>
+    <p> Batman operates in the fictional Gotham City with assistance from various supporting characters, 
+        including his <br> butler Alfred, police commissioner Jim Gordon, and vigilante allies such as Robin. 
+        Unlike most superheroes, <br>   Batman does not possess any <i> <b> inhuman superpowers </b> </i>  
+    </p>
+    <p> 
+       <h4> Images of Batman </h4>
+       <img src="../New folder/batman1.jpeg" alt="batman1" height="150"> 
+        <img src="../New folder/batman2.jpg" alt="batman2" height="150" width="240">
+        <br>
+        <img src="https://cdn.mos.cms.futurecdn.net/2NBcYamXxLpvA77ciPfKZW.jpg" alt="Batman3" height="170" width="300">
+        <img src="https://cdn.flickeringmyth.com/wp-content/uploads/2020/03/batman-deluxe_dc-comics_gallery_5e697c8dccfcf-600x600.jpg" alt="batman4" height="170" width="240">
+     </p>
+     <p>
+         <h4> Audios of Batman </h4>
+         <audio src="../New folder/hard.mp3"
+         controls
+         loop
+         preload="metadata"
+         autoplay>
+        </audio>
+     </p>
+     <p>
+         <h4> Videos of Batman </h4>
+         <video src="../New folder/BatmanVideo.mp4"
+         controls
+         preload="metadata"
+         loop
+         autoplay
+         height="150">
+        </video>
+        <video src="../New folder/dark_knight.mp4"
+        controls
+        loop
+        preload="metadata"
+        autoplay
+        height="150"></video>
+     </p>
+</body>
+</html>
