@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Assignment 6</title>
+</head>
+<body>
+     <table border="10" bgcolor="purple" cellspacing="5" cellpadding="4">
+       <thead bgcolor="green"> 
+        <tr> 
+            <th colspan="4" align="center"> First Gen Pokeman Chart </th>
+        </tr>    
+       </thead>
+       <tbody>
+         <tr>
+             <th bgcolor="green" align="center"> Image </th>
+             <th bgcolor="green" align="center"> Name </th>
+             <th bgcolor="green" align="center"> Type </th>
+             <th bgcolor="green" align="center"> Evovlves into </th>
+         </tr> 
+         <tr>
+             <td bgcolor="yellow" align="center"> <img src="./i1.jpeg" alt="Bulbasaur"> </td>
+             <th bgcolor="yellow" align="center"></td> Bulbasaur </th>
+             <th bgcolor="yellow" align="center"> Grass/Poison </th>
+             <td bgcolor="yellow" align="center"> <a href="https://www.pokemon.com/us/pokedex/ivysaur"> Ivysaur </a></td>
+         </tr>
+         <tr>
+             <td bgcolor="yellow" align="center"> <img src="./i2.jpeg" alt="Charmander"> </td>
+             <th bgcolor="yellow" align="center"> Charmader </th>
+             <th bgcolor="yellow" align="center"> Fire </th>
+             <td bgcolor="yellow" align="center"> <a href="https://in.portal-pokemon.com/play/pokedex/005"> Charmeleon </a></td>
+         </tr>
+         <tr>
+             <td bgcolor="yellow" align="center"> <img src="./i3.jpeg" alt="Squirtle"> </td>
+             <th bgcolor="yellow" align="center"> Squirtle </th>
+             <th bgcolor="yellow" align="center"> Water </th>
+             <td bgcolor="yellow" align="center"> <a href="https://in.portal-pokemon.com/play/pokedex/008"> Wartortle </a></td>
+         </tr>
+       </tbody>
+     </table>
+</body>
+</html>
