@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Assignment 7 </title>
+</head>
+<body bgcolor="orange">
+  <h1> <u><i> Welcome ! To Coding Blocks junior website</i></u></h1>
+    <iframe src="https://jr.codingblocks.com/" frameborder="10" 
+      scrolling="yes" height="450" width="1255">
+    </iframe>
+  <h1> <u><i> Some portion of other page: </i></u> </h1>
+    <iframe src="page7.html#gh" frameborder="1o" height="170" width="400"></iframe>
+    <iframe src="page7.html#ab" frameborder="10" height="170" width="400"></iframe>
+    <iframe src="page7.html#cd" frameborder="10" height="170" width="400"></iframe>
+  <h1> <u><i> Embedding Some Videos : </i></u></h1>
+    <embed src="https://pixabay.com/videos/world-earth-nasa-planet-globe-2/" type="video/mp4" height="300" width="600">
+    <embed src="https://youtu.be/KEXKCGyMowM?list=PLhLbJ9UoJCvsCXqP9yAOZpzXHhWkLBXdw" type="video/mp4" height="300" width="600"> 
+</body>
+</html>
