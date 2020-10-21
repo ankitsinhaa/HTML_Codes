@@ -1,0 +1,59 @@
+#gf {
+    color:red;
+}
+
+.Food {
+    color:blue;
+}
+
+#underline {
+    color:red;
+}
+
+#cd {
+    color:orange;
+}
+
+.vegeterian {
+    color:green;
+}
+
+.dal {
+    color:orange;
+}
+
+.cb {
+    color:purple;
+}
+
+#cg {
+    color:#a8328f;
+}
+
+.short {
+    color:#a85f32;
+}
+
+.unshort {
+    color:#32a83c;
+}
+
+#vf {
+    color: rgb(70, 168, 50);
+}
+
+#bh {
+    color:#f0e40a
+}
+
+.hunt{
+    color:#a032a2
+}
+
+#ms {
+    color:#2c6e09
+}
+
+#hw {
+    color:#13afed
+}
