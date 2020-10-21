@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title> Assignment 10 </title>
+        <link rel="stylesheet" href="css3.css">
+    </head>
+    <body>
+        <h1 id="gf"> <i> <u id="underline"> Good 
+         <span class="Food"> Food : </span> </u> </i> </h1>
+        <h2 class="cb"> <i> Vegeterian : </i> </h2>
+        <img src="https://images.immediate.co.uk/production/volatile/sites/30/2020/08/burnt-aubergine-chilli_1-fa6dd3c.jpg?webp=true&quality=90&resize=500%2C454" 
+          height="300">
+        <img src="https://images.immediate.co.uk/production/volatile/sites/30/2020/08/charred-spring-onions-teriyaki-tofu-1635424.jpg?quality=90&webp=true&resize=300,272"
+          height="300">
+          <br>
+          <p> 
+             <u class="vegeterian"> <span class="dal"> Emerald Dal - </span> </u> <u class="vegeterian"> 
+             <span class="vegeterian">is one of the most flavorful, plant-based, vegeterian meals
+             on the blog! Brocolli Quinoa Cakes! <br> Vegeterian Nasi Goreng (Indonesian Fried Rice)
+             loaaded up with fresh veggies! </span> </u>
+          </p>
+          <br>
+          <h2 class="cb"> <i> Cakes & Baking </i> </h2>
+          <img src="https://images.immediate.co.uk/production/volatile/sites/30/2020/08/triple-chocolate-peanut-butter-layer-cake-2-06eee24.jpg?webp=true&quality=90&resize=500%2C454"
+           height="220" width="290">
+          <img src="https://images.immediate.co.uk/production/volatile/sites/30/2020/08/fun-cake-c3ccf0e.jpg?webp=true&quality=90&resize=440%2C400" 
+           height="220" width="290">
+           <p id="cg">
+              categorizing them. The general classification used is whether or not they contain fat, also known
+              as shortening (not the be confused solely with just processed shortening), and are called: 
+              <span class="short"> SHORTENED (BUTTER OR OIL) CAKES </span> <span class="unshort"> or UNSHORTENED (FOAM) CAKES </span>
+           </p>
+           <br>
+           <p id="vf"> 
+              Food is any substance consumed to provide nutritional support for an organism. Food is usually 
+              of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins,
+              vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells
+              to provide energy, maintain life, or stimulate growth. 
+           </p>
+           <br>
+           <p id="bh">
+               Historically,humans secured food through two methods:<span class="hunt"> hunting and gathering and agriculture </span> , 
+               which have modern humans a mainly omnivorous diet. Worldwide, humanity has created numerous cuisines and culinery arts, incluing a 
+               wide array of ingredients, herbs, spices, techniques, and dishes.
+           </p>
+           <br>
+           <p id="ms">
+               Today, the majority of the food energy required by the ever-increasing population of the world which is supplied by the
+               food industry. Food safety and food security are monitored by agencies like the International Association for Food
+               Protection. World Resources Institute, World Food Programme, Food and Agricultural Organization, an International Food
+               Information Council. They address issues such as suistainability, biological diversity, climate change, nutritional economics
+               , population growth, water supply, and access to food.
+           </p>
+           <br>
+           <p id="hw">
+               The right to food is a human right derived from the <span class="hunt"> International Covanent on Economic, Social and Cultural Rights (ICESCR) </span>, 
+               recognizing the "right to an adequate standard of living, including adequate food", as well as the "fundamental right to be free from hunger."
+           </p>
+
+    </body>
+</html>
