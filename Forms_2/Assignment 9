@@ -1,1 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Assignment 8 </title>
+</head>
+<body>
+    <fieldset style="background-color: cadetblue;"> 
+    <h1> Reservation Request </h1>   
+    <fieldset> 
+        <legend> General Information </legend>
+        <form>
+            <label for="arrival"> Arrival date : </label>
+            <input type="date">
+            <br>
+            <br>
+            <label for="nights"> Nights : </label>
+            <input type="number" required>
+            <br>
+            <br>
+            <label for="adults"> Adults : </label>
+            <select>
+                <option value="1"> 1 </option>
+                <option value="2"> 2 </option>
+                <option value="3"> 3 </option>
+                <option value="4"> 4 </option>
+            </select>
+            <br>
+            <br>
+            <label for="children"> Children : </label>
+            <select>
+                <option value="0"> 0 </option>
+                <option value="1"> 1 </option>
+                <option value="2"> 2 </option>
+                <option value="3"> 3 </option>
+            </select>
+        </form>
+    </fieldset>
 
+    <br>
+
+    <fieldset>
+        <legend> Preferences </legend>
+        <form>
+            <label for="room"> Room type : </label>
+            <input type="radio" id="st">
+            Standard
+            <input type="radio" id="b1">
+            Business
+            <input type="radio" id="s1">
+            Suite
+            <br>
+            <br>
+            <label for="bed"> Bed Type : </label>
+            <input type="radio" id="king">
+            King
+            <input type="radio" id="Double">
+            Double
+            <br>
+            <br>
+            <input type="checkbox" id="smoke">
+            Smoking
+            <br>
+            <br>
+            <label for="food"> Food Options : </label>
+            <input type="text" list="data1">
+            <datalist id="data1">
+                <option> Veg </option>
+                <option> Non-Veg </option>
+                <option> Both </option>
+            </datalist>
+
+        </form>
+    </fieldset>
+
+    <br>
+
+    <fieldset>
+        <legend> Contact Information </legend>
+        <form>
+            <label for="name"> Name : </label>
+            <input type="text" id="name" required pattern="[A-z]">
+            <br>    
+            <br>
+            <label for="email"> E-mail : </label>
+            <input type="email" id="email" required pattern="[@gmail.com]">
+            <br>
+            <br>
+            <label for="phone"> Phone : </label>
+            <input type="tel" id="phone" required pattern="[1-9]{1} [0-9]{9}">
+            <br>
+            <br>
+            <label for="password"> Password :  </label>
+            <input type="password" id="pass">
+        </form>
+    </fieldset>
+     
+     <br>
+
+     <fieldset>
+         <legend> Distance Information </legend>
+         <form>
+             <label for="fuel"> Fuel Meter : </label>
+             <meter min="0"
+             max="100"
+             value="85"
+             low="25"
+             high="70"
+             optimum="80"> 
+             </meter>
+             <br>
+             <br>
+             <label for="Progress"> Progress bar : </label>
+             <progress value="80" max="100"></progress>
+             <br>
+             <br>
+             <p style="background-color:grey"> Create PDF in your applications with the Pdfcrowd </p>
+             <label for="paragraph"> Write About the place of visit : </label>
+             <br>
+             <textarea rows="4" cols="60" placeholder="Enter your paragraph"></textarea>
+         </form>
+     </fieldset>
+      <br>
+     <input type="submit" value="Submit">
+     </fieldset>
+</body>
+</html>    
