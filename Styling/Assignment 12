@@ -1,1 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> Assignment 12 </title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="ankit.css" rel="stylesheet">
+    </head>
+    <body>
+        <h1 class="name"> Jacob William </h1>
+        <h1 class="name"> Junior Editorial Assistant </h1>
+        <br>
+        <h2 id="about"> <u> About : </u> </h2>
+        <br>
+        <div class="description">
+            <p class="p1">
+              To describe <span class="height"> someone's height </span> , you can say they are tall or short. Tall people are 
+              higher than short people. Someone who is thin and tall can be called lanky. To say 
+              someone is short and is also small, you can say they are petite. If you're talking 
+              about a child, they might be pint-sized.
+            </p>
 
+            <p class="p2">
+               Someone who weighs more than  <span class="weight">  average can be curvy, well-built, full-bodied </span> or heavy. 
+               (Curvy is usually only used to describe women.) You might also say someone has some meat on their bones. This is a 
+               casual way of saying they are overweight, and it might seem rude to someone sensitive. The opposite of overweight can 
+               be thin, slim or skinny.
+            </p>
+
+            <p class="p1">
+               Light, <span class="height"> yellowish hair </span> can be described as blonde. But you can also call a person who has 
+               that kind of hair a blonde. (This means blonde can be used as anoun or an adjective.) A person with dark hair can be 
+               called a brunette. Someone with red hair can be called a redhead.
+            </p>
+
+            <p class="p2">
+               Besides what colour someone's hair is, <span class="weight"> you also can say they are short-haired or long-haired.</span> 
+               You can say they have curly, straight or wavy hair. Sometimes hair can also be frizzy, which is when it looks puffy with small
+               , tight curls. If someone has no hair at all on their head, they are bald. 
+            </p>
+
+            <p class="p4"> 
+               If someone dresses well, <span class="height"> They are smartly dressed </span> or they look smart. You can also just say they are
+               well-dressed. If someone dresses fashionably, they are stylish or trendy. If someone has bad taste in clothes, you can say they're unfashionable.
+               A less nice way to say this is frumpy.
+            </p>
+
+            <p id="p5">
+               Many people have mannerisms that appear when they're feeling negative (bad) emotions. If someone feels nervous or impatient, for example, they might 
+               tap their fingers, crack their nuckles, bite their fingernails or chew the tips of their pencils.
+            </p>
+        </div>
+    </body>
+</html>
