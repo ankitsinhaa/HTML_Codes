@@ -1,0 +1,50 @@
+body {
+    background-color:black;
+   
+}
+
+.name {
+    color:#2a929c;
+    font-size:xxx-large;
+    text-shadow:-6px 4.5px 2px yellow,
+                 -9.5px 8.5px 2px red,
+                 -13px 13px 2px purple;
+    text-align:center;
+}
+
+#about {
+    color:green;
+    text-decoration:line-through yellow;
+    font-size:34.5px;
+}
+
+.description p.p1 {
+    color:#4a948b;
+}
+
+.description p span.height {
+    font-size:18.5px;
+    font-weight: 900;
+    color:red;
+}
+
+.description p.p2 {
+    color:red;
+    font-weight:900;
+    font-size:18.5px;
+}
+
+.description p.p2 span.weight {
+    color:#4a948b;
+    font-weight:250;
+}
+
+.description p.p4 {
+    text-transform:uppercase;
+    color:#b01073;
+}
+
+.description #p5 {
+    color:goldenrod;
+    font-size:large;
+}
